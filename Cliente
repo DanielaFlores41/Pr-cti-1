@@ -1,0 +1,138 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programacion-PAM</title>
+    <style>
+        body {
+            font-family:cursive;
+            background-color: #ffffff;
+            color: #000000;
+            padding: 20px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .box {
+            background-color: #8fbed1;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        header {
+            background-color: #804f77;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        nav{
+            font-family: cursive;
+            font-size:medium;
+            background-color:#a17d99;
+            padding: 27px;
+            text-align: center;
+            justify-content:space-around;
+            display:flex
+        }
+        h1{
+            color:#211e3d
+        }
+        h2{
+            color:blueviolet
+        }
+
+
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikP5fxD7kAWeNukH51fwKEzNBydQASSuCOw&usqp=CAU">
+        <h1>“LENGUAJES DE PROGRAMACION PARA DESARROLLO DE APPS DE LADO DEL CLIENTE"</h1>
+    </header> 
+
+    <nav>
+        <a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a>
+        <a href="https://www.mytaskpanel.com/javascript-caracteristicas-beneficios-casos/">JAVASCRIPT</a>
+        <a href="https://blog.hubspot.es/website/que-es-java">JAVA</a>
+
+
+    </nav>
+
+    <p></p>
+
+    <div class="container">
+        <div class="box">
+            <h1>LENGUAJE HTML</h1>
+            <h2>Caracteristicas:</h2>
+            <p>°Es fácil de usar y entender.</p>
+            <p>°Es utilizado para crear páginas web.</p>
+            <p>°Permite describir hipertextos.</p>
+            <p>°Permite que el usuario se mueva por cualquier sitio de Internet haciendo clic en un texto específico —hipervínculo—. Y lo que etiqueta al HTML es el marcador del sitio web, estableciendo un texto pasado dentro de un nuevo texto.</p>
+            <p>°Está fundamentado por una serie de breves códigos escritos en un registro de texto por el desarrollador del sitio web.</p>
+            <p></p>
+            <h2>Funcion:</h2>
+            <p>°El lenguaje HTML sirve para describir la estructura básica de una página y organizar la forma en que se mostrará su contenido, además de que HTML permite incluir enlaces hacia otras páginas o documentos.</p>
+            <p></p>
+            <h2>Ejemplo:</h2>
+            <img AAAAABJRU5ErkJggg==">
+        </div>
+
+    <div class="box">
+        <h1>LENGUAJE CSS</h1>
+        <h2>Caracteristicas:</h2>
+        <p>°Es un lenguaje de programación diferente a HTML.</p>
+        <p>°Permite el apilamiento de instrucciones para definir formatos específicos.</p>
+        <p>°Es utilizable en todos los navegadores y plataformas.</p>
+        <p>°Optimiza el funcionamiento de las páginas web.</p>
+        <p>°Tiene una sintaxis específica.</p>
+        <p></p>
+        <h2>Funcion:</h2>
+        <p>Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de los sitios.</p>
+        <p></p>
+        <h2>Ejemplo:</h2>
+        <img IiICIiAiIgf/Z">
+
+    </div>
+
+    <div class="box">
+        <h1>LENGUAJE JAVASCRIPT</h1>
+        <h2>Caracteristicas:</h2>
+        <p>°Simplicidad. Posee una estructura sencilla que lo vuelve más fácil de aprender e implementar.</p>
+        <p>°Velocidad. Se ejecuta más rápido que otros lenguajes y favorece la detección de los errores.</p>
+        <p>°Versatilidad. Es compatible con otros lenguajes, como: PHP y Java. Además, hace que la ciencia de datos y el aprendizaje automático sean accesibles.</p>
+        <p>°Popularidad. Existen numerosos recursos y foros disponibles para ayudar a los principiantes con habilidades y conocimientos limitados.</p>
+        <p>°Carga del servidor. La validación de datos puede realizarse a través del navegador web y las actualizaciones solo se aplican a ciertas secciones de la página web.</p>
+        <p></p>
+        <h2>Funcion:</h2>
+        <p>Los usos más importantes de JavaScript son los siguientes:</p>
+        <p>Desarrollo de sitios web del lado del cliente (front end, en el navegador).</p>
+        <p>Desarrollo de aplicaciones para dispositivos móviles, híbridas o que compilan a nativo.</p>
+        <p>Construcción de servidores web y aplicaciones de servidor.</p>
+        <p>Desarrollo de aplicaciones de escritorio para sistemas Windows, Linux y Mac.</p>
+        <p>Desarrollo de juegos.</p>
+        <p></p>
+        <h2>Ejemplo:</h2>
+        <img     </div>
+
+
+    <div class="box">
+        <h1>LENGUAJE JAVA</h1>
+        <h2>Caracteristicas:</h2>
+        <p>°Simplicidad: Una de las principales ventajas de Java es que, debido a su sintaxis y reglas, es uno de los lenguajes más simples de utilizar.</p>
+        <p>°Portabilidad: Java es un lenguaje de programación que no es exclusivo de una única plataforma.</p>
+        <p>°Dirigido a objetos: En Java, todo es considerado como un objeto y este es uno de los principios de su enfoque basado en el polimorfismo.</p>
+        <p>°Ejecución en dos pasos: Como hemos visto, Java funciona mediante la compilación e interpretación simultánea durante el proceso de ejecución de órdenes.</p>
+        <p>°Seguridad: Java ofrece un alto nivel de seguridad gracias a su ejecución en dos pasos.</p>
+        <p></p>
+        <h2>Funcion:</h2>
+        <p>Java es muy utilizado en todo tipo de aplicaciones de productividad como procesadores de texto u hojas de cálculo. Incluso Google Maps en ocasiones, utiliza applet de Java que se ejecuta dentro del propio navegar del usuario reduciendo la carga del servidor.</p>
+        <p></p>
